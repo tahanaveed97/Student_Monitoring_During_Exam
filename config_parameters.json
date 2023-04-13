@@ -1,0 +1,22 @@
+{
+  "Durations": {
+    "CheckPersonInterval": 5, 
+    "FaceAPIinterval": 5,
+    "CheckDistractionInterval": 5,
+    "CheckEmotionInterval": 20,
+    "EventVideoDuration": 30,
+    "DataSetVideoDuration": 30,
+    "DataSetFolder": "dataset_videos",
+    "VideoSaveFolder": "event_videos",
+    "ImageSaveFolder": "event_images",
+    "PersonDetection": true,
+    "FaceAPI": false,
+    "Distraction": true,
+    "Emotion": false,
+    "DataSetCollection": false
+  },
+  "AuthKeys": {
+    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOWQ4ZmQzNjBiN2I5MmNhMmFiY2I1ZSIsImtleSI6IiQyYiQxMCRLWVk2bFUzOWFvbWZZYVovT054Z1l1UXVjUGFaWS5DZ0RLY1Z5dExPaGN3MENpcDVjYVZFLiIsImlhdCI6MTY1NDQ5MzEzOX0.v09e3OthyFGx12LT_Kjn5GSJ6-hotuLLxEHN-hofov8",
+    "apiSecret": "$2b$10$6iSfANxu2Uu4tcKIKqwXHeUrUuu6h.G5mGBKCjQbEiYc1SOmpQXnK"
+  }
+}
